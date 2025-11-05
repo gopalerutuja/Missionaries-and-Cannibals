@@ -73,7 +73,7 @@ GAME OVER
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
 
@@ -90,7 +90,7 @@ GAME OVER
 
 3. Follow the on-screen prompts to play the game.
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 
 * State-space representation
 * Constraint checking
