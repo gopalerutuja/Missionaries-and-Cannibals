@@ -48,7 +48,7 @@ Safely transport all missionaries and cannibals from the **right bank** to the *
 
 ---
 
-## 🏁 Win & Lose Conditions
+## Win & Lose Conditions
 
 * **You Win:**
   When all 3 missionaries and 3 cannibals reach the **left bank**.
@@ -58,7 +58,7 @@ Safely transport all missionaries and cannibals from the **right bank** to the *
 
 ---
 
-## 💻 Example Output
+## Example Output
 
 ```
 Right Side
